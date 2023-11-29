@@ -1,1 +1,1 @@
-# test-NetworkX
+# example NetworkX
